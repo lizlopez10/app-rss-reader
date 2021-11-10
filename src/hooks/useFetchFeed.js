@@ -19,7 +19,7 @@ export const useFetchFeed = ( feed_url ) => {
                 });
             })
             .catch(
-                error =>window.alert("Error: The URL is invalid")
+                error => window.alert("Error: The URL is invalid")
                 )
 
     }, [feed_url])

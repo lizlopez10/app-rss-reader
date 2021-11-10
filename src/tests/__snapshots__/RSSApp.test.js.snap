@@ -2,15 +2,7 @@
 
 exports[`Test in <RSSApp /> should show component correctly 1`] = `
 <RSSApp>
-  <div
-    onScroll={[Function]}
-    style={
-      Object {
-        "height": "100vh",
-        "overflowY": "scroll",
-      }
-    }
-  >
+  <div>
     <h2>
       RSS READER
     </h2>
