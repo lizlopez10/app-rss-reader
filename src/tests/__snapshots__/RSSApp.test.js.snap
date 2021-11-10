@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <RSSApp /> should show component correctly 1`] = `
+<RSSApp>
+  <div
+    onScroll={[Function]}
+    style={
+      Object {
+        "height": "100vh",
+        "overflowY": "scroll",
+      }
+    }
+  >
+    <h2>
+      RSS READER
+    </h2>
+    <AddFeed
+      setFeeds={[Function]}
+    >
+      <form
+        onSubmit={[Function]}
+      >
+        <input
+          onChange={[Function]}
+          type="text"
+          value=""
+        />
+      </form>
+    </AddFeed>
+    <hr />
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+        id="container-feeds"
+      />
+    </div>
+  </div>
+</RSSApp>
+`;

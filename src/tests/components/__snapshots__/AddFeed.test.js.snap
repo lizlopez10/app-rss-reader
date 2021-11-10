@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <AddFeed /> should show component correctly 1`] = `
+<AddFeed
+  setFeeds={[MockFunction]}
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </form>
+</AddFeed>
+`;

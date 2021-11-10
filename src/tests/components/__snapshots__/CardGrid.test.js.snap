@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <CardGrid /> should show component correctly 1`] = `
+<CardGrid
+  feed_url="http://feeds.washingtonpost.com/rss/rss_compost?itid=lk_inline_manual_10"
+>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Loading
+  </p>
+  <CardGridItem>
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        className="card-img-top"
+        src="NoImage.png"
+      />
+      <div
+        className="card-body"
+      >
+        <h5
+          className="card-title"
+        />
+        <a
+          className="btn btn-primary text-center"
+          target="_blank"
+        >
+          Ver más
+        </a>
+      </div>
+    </div>
+  </CardGridItem>
+</CardGrid>
+`;
