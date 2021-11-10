@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you have to run:
 ### `npm install`
+
+Then you can run 
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -18,6 +20,11 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run coverage`
+
+You can run it and see the coverage of the test.
+
 
 ### `npm run build`
 
